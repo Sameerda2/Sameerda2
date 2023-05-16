@@ -4,7 +4,7 @@ I am a Web Developer and SEO Expert.
 
 I like to explore new web technologies and I always look forward to learn more about Web, Search engines optimization techniques.
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,reactjs,nodejs,java,seo,mongodb)](https://skillicons.dev)
 
 📫 Feel free to contact me on dewangansameer5@gmail.com
 <!--
