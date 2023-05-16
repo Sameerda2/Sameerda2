@@ -1,11 +1,28 @@
 ### Hi there 👋 I'm Sameer Dewangan
 
-I am a Web Developer and SEO Expert.
+CSE Student, Web & Software Developer, Entrepreneur and SEO Expert
 
+Summary ➜
 I like to explore new web technologies and I always look forward to learn more about Web, Search engines optimization techniques.
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,reactjs,nodejs,java,seo,mongodb)](https://skillicons.dev)
+Facts ➜
+ 🔭 I’m currenty working mainly on Gamingspace.
+ ✨ Interested in Web Development, On-page, Off-page and Technical SEO
+ 💬 Ask me about Anything.
+ 👾 I always try to work on real worl problems and solutions.
 
+ Languages :
+                   
+ Frameworks & Libraries :
+                     
+ Databases & ORMs :
+         
+ Tools & Miscellaneous :
+         
+ Applications :
+                     
+ OSs & Platforms :
+         
 📫 Feel free to contact me on dewangansameer5@gmail.com
 <!--
 **Sameerda2/Sameerda2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
