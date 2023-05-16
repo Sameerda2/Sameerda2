@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I'm Sameer Dewangan
 
+I am a Web Developer and SEO Expert.
+
+
+📫 Contact me on dewangansameer5@gmail.com
 <!--
 **Sameerda2/Sameerda2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
