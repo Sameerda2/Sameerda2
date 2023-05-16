@@ -3,6 +3,7 @@
 CSE Student, Web & Software Developer, Entrepreneur and SEO Expert
 
 Summary ➜
+
 I like to explore new web technologies and I always look forward to learn more about Web, Search engines optimization techniques.
 
 Facts ➜
