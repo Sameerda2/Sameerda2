@@ -7,21 +7,12 @@ I like to explore new web technologies and I always look forward to learn more a
 
 Facts ➜
  🔭 I’m currenty working mainly on Gamingspace.
+ 
  ✨ Interested in Web Development, On-page, Off-page and Technical SEO
+ 
  💬 Ask me about Anything.
- 👾 I always try to work on real worl problems and solutions.
-
- Languages :
-                   
- Frameworks & Libraries :
-                     
- Databases & ORMs :
-         
- Tools & Miscellaneous :
-         
- Applications :
-                     
- OSs & Platforms :
+ 
+ 👾 I always try to work on real world problems and solutions.
          
 📫 Feel free to contact me on dewangansameer5@gmail.com
 <!--
